@@ -94,6 +94,10 @@ public class Account {
     }
     
     public static void main(String... a) {
+        //this is the main methd
+        //this is the main methd
+        //this is the main methd
+        //this is the main methd
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter the Amount of Accounts You wana to create");
         int am = scan.nextInt();
